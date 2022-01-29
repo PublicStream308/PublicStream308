@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PublicStream308
+- 👀 I’m interested in cryptocurrency
+- 🌱 I’m currently learning how to create my own altcoin
+- 💞️ I’m looking to collaborate on creating an altcoin
